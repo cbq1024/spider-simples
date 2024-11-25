@@ -1,0 +1,3 @@
+### GET 请求示例
+GET https://sjrc.com.cn/index.php?m=home&c=ajax_common&a=get_header_min HTTP/1.1
+Referer: https://sjrc.com.cn/index.php?m=&c=jobs&a=com_jobs_list&id=1080339
