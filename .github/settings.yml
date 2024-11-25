@@ -4,13 +4,13 @@ repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: dev-template
+  name: spider-simples
 
   # A short description of the repository that will show up on GitHub
-  description: dev-template
+  description: spider-simples
 
   # A URL with more information about the repository
-  homepage: https://github.com/cbq1024/dev-template
+  homepage: https://github.com/cbq1024/spider-simples
 
   # A comma-separated list of topics to set on the repository
   topics: template
